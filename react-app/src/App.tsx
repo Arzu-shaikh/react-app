@@ -58,7 +58,7 @@ function App() {
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#social-icon"></use>
           </svg>
-          <h2>aaaaaaaaaaaaaaaaa</h2>
+          <h2>bbbbbbbbbbbbbbbbbbbb</h2>
           <p>Join the Vite community</p>
           <ul>
             <li>
